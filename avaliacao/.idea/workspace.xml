@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2139b999-2330-4d34-88f2-ce3d7d0287e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CheckpointBEI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codility/Codility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codility/src/binaryGap/BinaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codility/src/nubank/maratonandoFilmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComidaFlyweight/ComidaFlyweight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/Nathalia-Vieira-Turma03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/dao/configuration/ConfigurationJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/dao/implement/DentistaDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/dao/implement/EnderecoDaoh2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/dao/implement/PacienteDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/model/Dentista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/model/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/model/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/service/DentistaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/service/EnderecoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/service/PacienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/test/DentistaServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/test/DentistaServiceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/test/PacienteServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/br/com/dh/odontologia/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nathalia-Vieira-Turma03/src/create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ORM/src/main/java/com/dh/ORM/ORM/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ORM/src/main/java/com/dh/ORM/ORM/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PagamentoSalario/PagamentoSalario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/Proxyflix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/src/GradeSerie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/src/ISerie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/src/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/src/SerieNaoHabilitadaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxyflix/src/SerieProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supermercado/Supermercado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesla/Tesla.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agenciaViagens/agenciaViagens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agenciaViagens/src/agenciaViagens/ApiAereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agenciaViagens/src/agenciaViagens/ApiHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agenciaViagens/src/agenciaViagens/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agenciaViagens/src/agenciaViagens/IFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agenciaViagens/src/agenciaViagens/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10 -Log4j/aula10 -Log4j.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10 -Log4j/src/Inteiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10 -Log4j/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10-Logging/aula10-Logging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10-Logging/src/LeaoLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10-Logging/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10-Logging/src/TestLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula10-Logging/src/TigreLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula13-03112021/aula13-03112021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula16/aula16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/aula8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/CirculoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/PessoaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula8/src/QuadradoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avaliacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/bd_h2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula13/com/dh/medicamentos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula13/com/dh/medicamentos/dao/ConfiguracaoJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula13/com/dh/medicamentos/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula13/com/dh/medicamentos/dao/implement/MedicamentoDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula13/com/dh/medicamentos/model/Medicamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula13/com/dh/medicamentos/service/MedicamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula14/serializeble/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aula14/serializeble/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aulaBD/APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aulaBD/AppExProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aulaBD/Figuras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aulaBD/TestLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/aulaBD/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bd_h2/src/test/com/dh/medicamentos/MedicamentoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/Autores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/CadastroLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/Estante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/comeia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/CheckMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/DepartamentoComercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/DepartamentoGerencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/DepartamentoTecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/HandlerSpam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comeia/src/controleMain/ProcessaMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlequalidade/controlequalidade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlequalidade/src/Artigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlequalidade/src/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlequalidade/src/Lote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/desafioFacade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/src/caixaEletronico/AcessarConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/src/caixaEletronico/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/src/caixaEletronico/CaixaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/src/caixaEletronico/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/src/caixaEletronico/ContaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioFacade/src/caixaEletronico/IAcessarConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/edabit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/addingNumbers/AddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/addingNumbers/AddNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/arraySum/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/arraySum/ArraySumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/fixBasicCalculator/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/fixBasicCalculator/BasicCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/isSameNum/SameNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/isSameNum/SameNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/multiplesArrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edabit/src/multiplesArrays/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-compras/exercicio-compras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio1_integradora/exercicio1_integradora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/flyweight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/computador/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/computador/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/computador/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/fabrica/Fabrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/fabrica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/fabrica/Roupa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flyweight/src/fabrica/RoupaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/dh/aula29/hibernate/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/dh/aula29/hibernate/model/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idade/src/main/java/br/com/dh/aula21/idade/controller/PessoaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idade/src/main/java/br/com/dh/aula21/idade/impl/IPessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idade/src/main/java/br/com/dh/aula21/idade/service/PessoaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/listaDeMusica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/src/listaDeMusica/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/src/listaDeMusica/ListaMusicaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaDeMusica/src/listaDeMusica/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mesaDeTrabalho7/mesaDeTrabalho7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mesaDeTrabalho7/src/ArvoreFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mesaDeTrabalho7/src/Arvores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mesaDeTrabalho7/src/Floresta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc.aula17/src/main/java/com/dh/mvc/aula17/trainer/controller/TrainerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc.aula17/src/main/java/com/dh/mvc/aula17/trainer/domain/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc.aula17/src/main/java/com/dh/mvc/aula17/trainer/service/TrainerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc.aula17/src/main/java/com/dh/mvc/aula17/trainer/service/TrainerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/netflix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/Filmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/GradeFilmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/GradeFilmesProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/IGradeFilmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/IP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/IPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/controller/DentistaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/controller/PacienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/controller/PacienteControllerLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/domain/Dentista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/domain/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/domain/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/services/DentistaServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/services/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/services/PacienteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/java/com/dh/odonto/util/UtilDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../odonto/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/dao/JogadorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/model/Equipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/model/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/model/Treinador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/repository/IEquipeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/repository/IJogadorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/repository/ITreinadorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/service/EquipeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/service/JogadorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../padraoHibernate/src/main/java/com/dh/aula30/padraoHibernate/service/TreinadorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/poo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/intro/AtividadeScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/intro/ComparaDoisValores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/intro/CompararStringEInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/intro/DesafioMascotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poo/src/intro/EstruturasControle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/controller/DentistaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/controller/PacienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/entity/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/entity/Dentista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/entity/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/entity/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/entity/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/repository/IDentistaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/repository/IEnderecoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/repository/IPacienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/repository/IUsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/service/DentistaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/service/EnderecoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/service/PacienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/service/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/src/main/java/com/dh/integradorI/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/out/production/checkpointPOO/starbucks/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/out/production/checkpointPOO/starbucks/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/out/production/checkpointPOO/starbucks/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpointPOO/out/production/checkpointPOO/starbucks/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/out/production/checkpointPOO/starbucks/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpointPOO/out/production/checkpointPOO/starbucks/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpointPOO/src/starbucks/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2AJJOQH5l8L26STFrA0bJYUIWdS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/nathalia/Área de Trabalho/catalog",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dh.catalog.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CatalogApplication">
+    <configuration name="CatalogApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.catalog.CatalogApplication" />
+      <module name="catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.catalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.config.ConfigApplication" />
+      <module name="config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.eureka.EurekaApplication" />
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CatalogApplication" />
+        <item itemvalue="Application.ConfigApplication" />
+        <item itemvalue="Application.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2139b999-2330-4d34-88f2-ce3d7d0287e6" name="Changes" comment="" />
+      <created>1654721724280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654721724280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
